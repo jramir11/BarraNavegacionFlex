@@ -1,0 +1,37 @@
+
+
+.nav {
+    background-color: darkgrey;
+    margin: 5px;
+    border-radius: solid 2px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Roboto'
+}
+
+ul {
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+    list-style-type: none;
+
+}
+
+a {
+    display: flex;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+h1 {
+    font-family: roboto;
+}
+
+.btn {
+    margin: 10px;
+}
